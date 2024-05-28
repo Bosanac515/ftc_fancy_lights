@@ -1,10 +1,3 @@
-'''
-
-Written by: Amelia Wietting
-Date: 20240124
-For: FTC Team 19415
-This update was pushed OTA. Do not change it unless you know what you are doing
-'''
 
 from CONFIG.WIFI_CONFIG import COUNTRY, MAX_WIFI_CONNECT_TIMEOUT, WIFI_LIST
 from CONFIG.MQTT_CONFIG import MQTT_USERNAME, MQTT_PASSWORD, MQTT_SERVER, MQTT_CLIENT_ID
